@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tgonvs&label=Profile%20views&color=0e75b6&style=flat" alt="tgonvs" /> </p>
 
-<p align="left"> <a href="https://twitter.com/tgonvs" target="blank"><img src="https://img.shields.io/twitter/url?logo=Twitter&style=social&url=http%3A%2F%2Ftwitter.com%2Ftgonvs" alt="tgonvs" /></a> </p>
-
 - 🔭 I’m currently working on **Telecom at Stefanini**
 
 - 👯 I’m looking to collaborate on **project Software Engineering**
