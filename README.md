@@ -14,20 +14,14 @@ I am also an open-source enthusiast and maintainer. I learning a lot from the op
 
 <p align="center">
 
-🔭 I’m currently working at **Stefanini**
-
-👯 I’m looking to collaborate on project **Software Engineering**
-
-💬 Ask me about **Technology, Data Science, Cloud, Python, AI, Machine Learning**
-
-📫 How to reach me **tiago-novaes@live.com**
-
-⚡ Fun fact in programming, I love cinema and series, I like to read, enjoy life. </p>
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me [e-mail](tiago-novaes@live.com)
+- ⚡ Fun fact in programming, I love cinema and series, I like to read, enjoy life. </p>
 
 
 **Systems, Languages and Tools:**
 
-<p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" alt="aws" height="27" width="70"/></a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" alt="azure" height="27" width="90"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="html5" height="27" width="95"/> 
+<p> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" alt="aws" height="27" width="70"/></a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" alt="azure" height="27" width="90"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="html5" height="27" width="95"/> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="css3" height="27" width="85"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="javascript" height="27" width="110"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="typescript" height="27" width="110"/> </a>
