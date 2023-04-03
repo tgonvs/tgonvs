@@ -15,7 +15,7 @@
 
 <h4 align="center">
 
-🔭 I’m currently working at __Stefanini__
+🔭 I’m currently working at Stefanini
 
 👯 I’m looking to collaborate on project Software Engineering
 
