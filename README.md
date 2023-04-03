@@ -51,10 +51,12 @@ I am also an open-source enthusiast and maintainer. I learning a lot from the op
 <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Sublime-FF9800.svg?style=for-the-badge&logo=Sublime-Text&logoColor=white" alt="vscode" height="27" width="85"/> </a> 
  </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tgonvs&show_icons=true&locale=en&layout=compact" alt="tgonvs" /></p>
+📈 My github **stats**
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tgonvs&show_icons=true&locale=en" alt="tgonvs" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tgonvs&show_icons=true&locale=en&layout=compact" alt="tgonvs" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tgonvs&" alt="tgonvs" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tgonvs&show_icons=true&locale=en" alt="tgonvs" /></p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=tgonvs&" alt="tgonvs" /></p>
 
 
