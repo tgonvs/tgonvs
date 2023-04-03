@@ -1,9 +1,19 @@
-<h1 align="center">Hi 👋, I'm Tiago</h1>
+<img align="right" alt="Coding" src="https://camo.githubusercontent.com/0b5f431a318eb824e40b630d869b6a8629d4c86eeb84910b72e15e30ce4e482f/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67">
+
+<p align="center">
+<a href="https://twitter.com/tgonvs" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="tgonvs" height="27" width="105" /></a>
+<a href="https://linkedin.com/in/tiago-novaes-oliveira" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="tiago-novaes-oliveira" height="27" width="115" /></a>
+<a href="https://instagram.com/tgonvs" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="tgonvs" height="27" width="120" /></a>
+</p>
+
+<h1 align="center"><img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="30" height="30"> Hello World, I'm Tiago</h1> 
+
 <h3 align="center">A passionate developer from Brazil</h3>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tgonvs&label=Profile%20views&color=0e75b6&style=flat" alt="tgonvs" /> </p>
 
-<h4 align="center">
+<h4 align="left">
 
   🔭 I’m currently working on Telecom at Stefanini
 
@@ -18,11 +28,6 @@
 ⚡ Fun fact in programming, I love cinema and series, I like to read, enjoy life. </h4>
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/tgonvs" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="tgonvs" height="27" width="105" /></a>
-<a href="https://linkedin.com/in/tiago-novaes-oliveira" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="tiago-novaes-oliveira" height="27" width="115" /></a>
-<a href="https://instagram.com/tgonvs" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="tgonvs" height="27" width="120" /></a>
-</p>
 
 <h3 align="center">Systems, Languages and Tools:</h3>
 
@@ -52,3 +57,5 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tgonvs&show_icons=true&locale=en" alt="tgonvs" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tgonvs&" alt="tgonvs" /></p>
+
+
