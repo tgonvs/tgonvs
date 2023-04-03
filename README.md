@@ -13,9 +13,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tgonvs&label=Profile%20views&color=0e75b6&style=flat" alt="tgonvs" /> </p>
 
-<h4 align="left">
+<h4 align="center">
 
-  🔭 I’m currently working on Telecom at Stefanini
+🔭 I’m currently working at Stefanini
 
 👯 I’m looking to collaborate on project Software Engineering
 
@@ -50,7 +50,10 @@
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" alt="spring" height="27" width="90"/> </a> 
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white" alt="sqlite" height="27" width="85"/> </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="python" height="27" width="85"/> </a>
-<a href="https://www.adobe.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe-FF0000.svg?style=for-the-badge&logo=Adobe&logoColor=white" alt="photoshop" height="27" width="85"/> </a> </p>
+<a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe-FF0000.svg?style=for-the-badge&logo=Adobe&logoColor=white" alt="photoshop" height="27" width="85"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VSCODE-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white" alt="vscode" height="27" width="85"/> </a> 
+<a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Sublime-FF9800.svg?style=for-the-badge&logo=Sublime-Text&logoColor=white" alt="vscode" height="27" width="85"/> </a> 
+ </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tgonvs&show_icons=true&locale=en&layout=compact" alt="tgonvs" /></p>
 
