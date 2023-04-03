@@ -1,12 +1,12 @@
 <img align="right" alt="Coding" src="https://camo.githubusercontent.com/0b5f431a318eb824e40b630d869b6a8629d4c86eeb84910b72e15e30ce4e482f/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67">
 
 <p align="center">
-<a href="https://twitter.com/tgonvs" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="tgonvs" height="27" width="105" /></a>
-<a href="https://linkedin.com/in/tiago-novaes-oliveira" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="tiago-novaes-oliveira" height="27" width="115" /></a>
-<a href="https://instagram.com/tgonvs" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="tgonvs" height="27" width="120" /></a>
+<a href="https://twitter.com/tgonvs" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="tgonvs" height="27" width="100" /></a>
+<a href="https://linkedin.com/in/tiago-novaes-oliveira" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="tiago-novaes-oliveira" height="27" width="105" /></a>
+<a href="https://instagram.com/tgonvs" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="tgonvs" height="27" width="115" /></a>
 </p>
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="30" height="30"> Hello World, I'm Tiago</h1> 
+<h1 align="center"><img src="https://user-images.githubusercontent.com/122758377/229411937-15af6ba4-5d24-437f-a2c3-6990b6a18928.gif" width="30" height="30"> Hello World, I'm Tiago</h1> 
 
 <h3 align="center">A passionate developer from Brazil</h3>
 
