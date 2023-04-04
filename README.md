@@ -28,30 +28,28 @@ I am also an open-source enthusiast and I learning a lot from the open-source co
 
 <h2>🛠️ Systems, Languages and Tools:</h2>
 
-<p> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" alt="aws" height="27" width="70"/></a> 
- <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" alt="azure" height="27" width="90"/></a> 
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="html5" height="27" width="95"/> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="css3" height="27" width="85"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="javascript" height="27" width="110"/></a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="reactnative" height="27" width="85"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" alt="docker" height="27" width="95"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="git" height="27" width="65"/> </a>
-<a href="www.microsoft.com/" taget="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white" alt="windows" height="27" width="95" /> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" alt="linux" height="27" width="87"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="mongodb" height="27" width="97"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="mysql" height="27" width="90"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" height="27" width="90"/> </a> 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white" alt="oracle" height="27" width="90"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" height="27" width="90"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" height="27" width="100"/> </a> 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="pytorch" height="27" width="97"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" alt="spring" height="27" width="90"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white" alt="sqlite" height="27" width="85"/> </a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="python" height="27" width="85"/> </a>
-<a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe-FF0000.svg?style=for-the-badge&logo=Adobe&logoColor=white" alt="photoshop" height="27" width="85"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VSCODE-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white" alt="vscode" height="27" width="85"/> </a> 
-<a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Sublime-FF9800.svg?style=for-the-badge&logo=Sublime-Text&logoColor=white" alt="vscode" height="27" width="85"/> </a> 
- </p>
+<a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E.svg?style=flat&logo=Amazon-AWS&logoColor=white" alt="aws" height="20" width="50"/></a> 
+<a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0078D4.svg?style=flat&logo=Microsoft-Azure&logoColor=white" alt="azure" height="20" width="60"/></a> 
+<a href="https://www.w3.org/html/"><img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flate&logo=HTML5&logoColor=white" alt="html5" height="20" width="60"/> 
+<a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=CSS3&logoColor=white" alt="css3" height="20" width="60"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black" alt="javascript" height="20" width="80"/></a>
+<a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=React&logoColor=black" alt="reactnative" height="20" width="60"/></a>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=Docker&logoColor=white" alt="docker" height="20" width="70"/></a>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white" alt="git" height="20" width="50"/></a>
+<a href="www.microsoft.com/"><img src="https://img.shields.io/badge/Windows-0078D6.svg?style=flat&logo=Windows&logoColor=white" alt="windows" height="20" width="75" /></a>
+<a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=Linux&logoColor=black" alt="linux" height="20" width="55"/></a> 
+<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=MongoDB&logoColor=white" alt="mongodb" height="20" width="75"/></a> 
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white" alt="nodejs" height="20" width="68"/></a> 
+<a href="https://www.oracle.com/"><img src="https://img.shields.io/badge/Oracle-F80000.svg?style=flat&logo=Oracle&logoColor=white" alt="oracle" height="20" width="60"/></a> 
+<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458.svg?style=flat&logo=pandas&logoColor=white" alt="pandas" height="20" width="70"/></a>
+<a href="https://postman.com"><img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=Postman&logoColor=white" alt="postman" height="20" width="77"/></a> 
+<a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" alt="pytorch" height="20" width="70"/></a>
+<a href="https://spring.io/"><img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=flat&logo=Spring&logoColor=white" alt="spring" height="20" width="65"/></a> 
+<a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-003B57.svg?style=flat&logo=SQLite&logoColor=white" alt="sqlite" height="20" width="65"/></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="python" height="20" width="65"/></a>
+<a href="https://www.adobe.com/"><img src="https://img.shields.io/badge/Adobe-FF0000.svg?style=flat&logo=Adobe&logoColor=white" alt="photoshop" height="20" width="65"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-5C2D91.svg?style=flat&logo=Visual-Studio&logoColor=white" alt="vscode" height="20" width="65"/></a> 
+<a href="https://www.sublimetext.com/"><img src="https://img.shields.io/badge/Sublime-FF9800.svg?style=flat&logo=Sublime-Text&logoColor=white" alt="sublime" height="20" width="75"/></a>
 
 <h2>📊 My Github stats:</h2>
 
