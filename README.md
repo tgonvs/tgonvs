@@ -14,15 +14,19 @@ I am also an open-source enthusiast and maintainer. I learning a lot from the op
 <img src="https://komarev.com/ghpvc/?username=tgonvs&label=Profile%20views&color=0e75b6&style=flat-square" alt="tgonvs" />
 
 💬 Ask me about anything, I am happy to help;
+
 📫 How to reach me [e-mail](tiago-novaes@live.com)
+
 ⚡ Fun fact in programming, I love cinema and series, I like to read, enjoy life.
 
 
-- 🛠️ Systems, Languages and Tools:**
+- 🛠️ Systems, Languages and Tools:
 
-<p> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" alt="aws" height="27" width="70"/></a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" alt="azure" height="27" width="90"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="html5" height="27" width="95"/> 
+<p> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" alt="aws" height="27" width="70"/></a> 
+ <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" alt="azure" height="27" width="90"/></a> 
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="html5" height="27" width="95"/> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="css3" height="27" width="85"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="javascript" height="27" width="110"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="javascript" height="27" width="110"/></a>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="reactnative" height="27" width="85"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" alt="docker" height="27" width="95"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="git" height="27" width="65"/> </a>
@@ -43,7 +47,7 @@ I am also an open-source enthusiast and maintainer. I learning a lot from the op
 <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Sublime-FF9800.svg?style=for-the-badge&logo=Sublime-Text&logoColor=white" alt="vscode" height="27" width="85"/> </a> 
  </p>
 
-- 📊 My github **stats**
+- 📊 My Github Stats:
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=tgonvs&show_icons=true&locale=en" alt="tgonvs" /></p>
 
