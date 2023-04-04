@@ -1,4 +1,4 @@
-<h1><img src="https://user-images.githubusercontent.com/122758377/229411937-15af6ba4-5d24-437f-a2c3-6990b6a18928.gif" width="20" height="20"> Yo! What's up? I am <a href="https://github.com/tgonvs">Tiago</a> </h1> 
+<h1><img src="https://user-images.githubusercontent.com/122758377/229411937-15af6ba4-5d24-437f-a2c3-6990b6a18928.gif" width="25" height="25"> Yo! What's up? I am <a href="https://github.com/tgonvs">Tiago</a> <img src="https://user-images.githubusercontent.com/122758377/229687814-57f605ce-3d22-4048-aeec-d896095ad7c2.gif" width="30" height="30"></h1> 
 <img src="https://komarev.com/ghpvc/?username=tgonvs&label=Profile&views&color=0e75b6&style=flat">
 
 <h2>🙋‍♂️ A little about me...</h2>
