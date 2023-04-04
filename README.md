@@ -1,3 +1,5 @@
+![dedicated-dev-banner@2x](https://user-images.githubusercontent.com/122758377/229693118-1c474523-f227-4448-a725-0f68ca3d0fc2.png)
+
 <h1><img src="https://user-images.githubusercontent.com/122758377/229411937-15af6ba4-5d24-437f-a2c3-6990b6a18928.gif" width="25" height="25"> Yo! What's up? I am <a href="https://github.com/tgonvs">Tiago</a> <img src="https://user-images.githubusercontent.com/122758377/229687814-57f605ce-3d22-4048-aeec-d896095ad7c2.gif" width="30" height="30"></h1> 
 <img src="https://komarev.com/ghpvc/?username=tgonvs&label=Profile&views&color=0e75b6&style=flat">
 
@@ -11,6 +13,9 @@ I am also an open-source enthusiast and I learning a lot from the open-source co
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat&logo=github&link=https://github.com/tgonvs/)](https://github.com/tgonvs/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-novaes-oliveira/)](https://www.linkedin.com/in/tiago-novaes-oliveira)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-9cf?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/tgonvs)](https://twitter.com/tgonvs)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/tgonvs/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:droplets.colors.tn@gmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:tiago-novaes@live.com)
 
 <h2>✨ Quick facts:</h2>
 
