@@ -1,19 +1,17 @@
-<img src="https://thumbs.gfycat.com/ColorlessBitesizedKob-size_restricted.gif">
+<h2><img src="https://user-images.githubusercontent.com/122758377/229411937-15af6ba4-5d24-437f-a2c3-6990b6a18928.gif" width="20" height="20"> Hello World, I'm Tiago</h2> 
+<img src="https://komarev.com/ghpvc/?username=tgonvs&label=Profile&Views&color=0e75b6&style=flat">
 
-<h1><img src="https://user-images.githubusercontent.com/122758377/229411937-15af6ba4-5d24-437f-a2c3-6990b6a18928.gif" width="20" height="20"> Hello World, I'm Tiago</h1>
-
-<p align="center">
-<a href="https://twitter.com/tgonvs" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="tgonvs" height="27" width="100" /></a>
-<a href="https://linkedin.com/in/tiago-novaes-oliveira" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="tiago-novaes-oliveira" height="27" width="105" /></a>
-<a href="https://instagram.com/tgonvs" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="tgonvs" height="27" width="115" /></a>
-</p>
+### 🔦 Find me at:
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat&logo=github&link=https://github.com/tgonvs/)](https://github.com/tgonvs/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-novaes-oliveira/)](https://www.linkedin.com/in/tiago-novaes-oliveira)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-9cf?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/tgonvs)](https://twitter.com/tgonvs)
 
 
-
-### a passionate self-taught web developer and a freelance software engineer from Brazil. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+### 🙋‍♂️ A little about me...
+a passionate self-taught web developer and a freelance software engineer from Brazil. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learning a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. </p>
-<img src="https://komarev.com/ghpvc/?username=tgonvs&label=Profile%20views&color=0e75b6&style=flat-square" alt="tgonvs" />
+
 
 💬 Ask me about anything, I am happy to help;
 
