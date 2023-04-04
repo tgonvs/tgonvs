@@ -6,7 +6,7 @@
 <h2>🙋‍♂️ A little about me...</h2>
 
 I'm an ***Undergrad Student*** at [@Unicid](https://www.cruzeirodosulvirtual.com.br/)🎓 pursuing degree in ***Software Engineering.*** 💻 
-I am also an open-source enthusiast and I learning a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source, great purpose code for humanity! 🌎 
+I am also a tech enthusiast and am learning a lot from the community, I love how collaboration and knowledge sharing happens through open source of great purpose for humanity! 🌎 
 
 <h2>🔦 Find me at:</h2>
 
