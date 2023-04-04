@@ -1,5 +1,6 @@
-<img align="right" alt="Coding" src="https://camo.githubusercontent.com/0b5f431a318eb824e40b630d869b6a8629d4c86eeb84910b72e15e30ce4e482f/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67">
+<img src="https://thumbs.gfycat.com/ColorlessBitesizedKob-size_restricted.gif">
 
+<h1><img src="https://user-images.githubusercontent.com/122758377/229411937-15af6ba4-5d24-437f-a2c3-6990b6a18928.gif" width="20" height="20"> Hello World, I'm Tiago</h1>
 
 <p align="center">
 <a href="https://twitter.com/tgonvs" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="tgonvs" height="27" width="100" /></a>
@@ -7,7 +8,9 @@
 <a href="https://instagram.com/tgonvs" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="tgonvs" height="27" width="115" /></a>
 </p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/122758377/229411937-15af6ba4-5d24-437f-a2c3-6990b6a18928.gif" width="20" height="20"> Hello World, I'm Tiago, a passionate self-taught web developer and a freelance software engineer from Brazil. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+
+### a passionate self-taught web developer and a freelance software engineer from Brazil. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learning a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. </p>
 <img src="https://komarev.com/ghpvc/?username=tgonvs&label=Profile%20views&color=0e75b6&style=flat-square" alt="tgonvs" />
@@ -19,7 +22,7 @@ I am also an open-source enthusiast and maintainer. I learning a lot from the op
 ⚡ Fun fact in programming, I love cinema and series, I like to read, enjoy life.
 
 
-- 🛠️ Systems, Languages and Tools:
+### 🛠️ Systems, Languages and Tools:
 
 <p> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" alt="aws" height="27" width="70"/></a> 
  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" alt="azure" height="27" width="90"/></a> 
@@ -46,7 +49,7 @@ I am also an open-source enthusiast and maintainer. I learning a lot from the op
 <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Sublime-FF9800.svg?style=for-the-badge&logo=Sublime-Text&logoColor=white" alt="vscode" height="27" width="85"/> </a> 
  </p>
 
-- 📊 My Github Stats:
+### 📊 My Github Stats:
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=tgonvs&show_icons=true&locale=en" alt="tgonvs" /></p>
 
