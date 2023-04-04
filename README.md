@@ -36,10 +36,13 @@ I am also an open-source enthusiast and I learning a lot from the open-source co
 <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=React&logoColor=black" alt="reactnative" height="20" width="60"/></a>
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=Docker&logoColor=white" alt="docker" height="20" width="70"/></a>
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white" alt="git" height="20" width="50"/></a>
-<a href="www.microsoft.com/"><img src="https://img.shields.io/badge/Windows-0078D6.svg?style=flat&logo=Windows&logoColor=white" alt="windows" height="20" width="75" /></a>
-<a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=Linux&logoColor=black" alt="linux" height="20" width="55"/></a> 
-<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=MongoDB&logoColor=white" alt="mongodb" height="20" width="75"/></a> 
-<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white" alt="nodejs" height="20" width="68"/></a> 
+<a href="www.microsoft.com/"><img src="https://img.shields.io/badge/Windows-0078D6.svg?style=flat&logo=Windows&logoColor=white" alt="windows" height="20" width="75"/></a>
+<a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=Linux&logoColor=black" alt="linux" height="20" width="55"/></a>
+<a href="https://www.ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=flat&logo=Ubuntu&logoColor=white" alt="ubuntu" height="20" width="68"/></a>
+<a href="https://https://www.apple.com/br/macos"><img src="https://img.shields.io/badge/MacOS-000000.svg?style=flat&logo=Apple&logoColor=white" alt="macos" height="20" width="60"/></a>
+<a href="https://www.swift.org/"><img src="https://img.shields.io/badge/Swift-F05138.svg?style=flat&logo=Swift&logoColor=white" alt="swift" height="20" width="60"/></a>
+<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=MongoDB&logoColor=white" alt="mongodb" height="20" width="79"/></a> 
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white" alt="nodejs" height="20" width="66"/></a> 
 <a href="https://www.oracle.com/"><img src="https://img.shields.io/badge/Oracle-F80000.svg?style=flat&logo=Oracle&logoColor=white" alt="oracle" height="20" width="60"/></a> 
 <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458.svg?style=flat&logo=pandas&logoColor=white" alt="pandas" height="20" width="70"/></a>
 <a href="https://postman.com"><img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=Postman&logoColor=white" alt="postman" height="20" width="77"/></a> 
