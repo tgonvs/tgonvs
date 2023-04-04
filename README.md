@@ -7,7 +7,6 @@
 <a href="https://instagram.com/tgonvs" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="tgonvs" height="27" width="115" /></a>
 </p>
 
-
 <p align="center"><img src="https://user-images.githubusercontent.com/122758377/229411937-15af6ba4-5d24-437f-a2c3-6990b6a18928.gif" width="20" height="20"> Hello World, I'm Tiago, a passionate self-taught web developer and a freelance software engineer from Brazil. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learning a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. </p>
