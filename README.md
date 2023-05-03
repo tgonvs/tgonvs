@@ -41,12 +41,8 @@ I am also a tech enthusiast and am learning a lot from the community, I love how
 <a href="https://www.ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=flat&logo=Ubuntu&logoColor=white" alt="ubuntu" height="20" width="68"/></a>
 <a href="https://https://www.apple.com/br/macos"><img src="https://img.shields.io/badge/MacOS-000000.svg?style=flat&logo=Apple&logoColor=white" alt="macos" height="20" width="60"/></a>
 <a href="https://www.swift.org/"><img src="https://img.shields.io/badge/Swift-F05138.svg?style=flat&logo=Swift&logoColor=white" alt="swift" height="20" width="60"/></a>
-<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=MongoDB&logoColor=white" alt="mongodb" height="20" width="79"/></a> 
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white" alt="nodejs" height="20" width="66"/></a> 
-<a href="https://www.oracle.com/"><img src="https://img.shields.io/badge/Oracle-F80000.svg?style=flat&logo=Oracle&logoColor=white" alt="oracle" height="20" width="60"/></a> 
-<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458.svg?style=flat&logo=pandas&logoColor=white" alt="pandas" height="20" width="70"/></a>
 <a href="https://postman.com"><img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=Postman&logoColor=white" alt="postman" height="20" width="77"/></a> 
-<a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" alt="pytorch" height="20" width="70"/></a>
 <a href="https://spring.io/"><img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=flat&logo=Spring&logoColor=white" alt="spring" height="20" width="65"/></a> 
 <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-003B57.svg?style=flat&logo=SQLite&logoColor=white" alt="sqlite" height="20" width="65"/></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="python" height="20" width="65"/></a>
